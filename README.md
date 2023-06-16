@@ -1,4 +1,4 @@
-# Puzzle-8-3-Bulb-3-switches
+# 3-Bulb-3-switches
 
 There is a room with a door (closed) and three light bulbs inside the room. Outside the room, there are three switches, connected to the bulbs. You may manipulate the switches as you wish, but once you open the door you can’t change them. All bulbs are in working condition. Identify each switch with respect to its bulb. How many minimum number of time you open the door?
 
